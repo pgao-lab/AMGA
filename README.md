@@ -11,6 +11,6 @@ The results for the work "Towards Adaptive Meta-Gradient Adversarial Examples fo
   author={Tian, Wei-Long and Gao, Peng and Liu, Xiao and Xu, Long and Fujita, Hamido and Aljuai, Hanan and Wang, Mao-Li},
   journal={IEEE Transactions on Reliability},
   year={2025},
-  publisher={OEEE}
+  publisher={IEEE}
 }
 ```
